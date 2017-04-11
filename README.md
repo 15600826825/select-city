@@ -1,8 +1,7 @@
 # select-city
 可自定义样式的城市三级联动选择器
 页面结构
-<!--
-<div class="select-city">
+div class="select-city">
 　　<div class="select-city-shade"></div>
 　　<div class="select-city-container">
 　　　　<div class="select-city-title">
@@ -13,8 +12,7 @@
 　　　　</div>
 　　　　<div class="select-item-container"></div>
 　　</div>
-</div>
--->
+</div
 引入文件
 <link rel="stylesheet" type="text/css" href="Areas.css"/>
 
